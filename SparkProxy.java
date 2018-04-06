@@ -1,7 +1,5 @@
 package spark.proxy;
 
-package com.kts.utils.sparkJava;
-
 import static spark.Spark.*;
 
 import java.io.ByteArrayOutputStream;
